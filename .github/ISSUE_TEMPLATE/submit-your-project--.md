@@ -21,6 +21,8 @@ Please fill in the following info and submit the Issue.
 **Organizers**:
 <!--Your name and GitHub login, possibly more than 1 lead-->
 
+**Mattermost handle**:
+
 **Project URL**:
 
 **Project goals**
